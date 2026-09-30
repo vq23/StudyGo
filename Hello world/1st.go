@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func first() {
+func main() {
 	fmt.Print("Hello world ЭТО ИЛЮХА БЛЕЙЗ")
 	fmt.Print("blazer")
 }
